@@ -1,0 +1,305 @@
+
+*{
+	margin:0px;
+}
+.col-1{
+	background: linear-gradient(to right, white ,#F5F5F5);
+	width:1160px;
+	height:70px;
+	}
+.search {
+	float:right;
+	position:relative;
+	right:150px;
+	top:20px;
+}
+.logo{
+	margin-left:-170px;
+	
+}
+.title2{
+	color:#E4E4E4;
+	margin-left:250px;
+	margin-top:-50px;
+	font-size:12px;
+}
+.imagenbighero{
+	height:420px;
+	width:1356px;
+	margin-right:300px;
+}
+
+.icono{
+	width:80px;
+	height:80px;
+	left:390px;
+	top:-220px;
+	position:relative;
+}
+
+.container2{
+	width:300px;
+	height:70px;
+	top:400px;
+}
+
+.sidebar{
+	margin-top:-480px;
+    left:900px;
+	position:relative;
+}
+.bigh{
+	color:#D4D4D4;
+	font-size:40px;
+	font-family:arial;
+	margin-bottom:10px;
+}
+.greenbar {
+	border:2px solid #3AB15E;
+	width:70px;
+	height:30px;
+	text-align:center;
+	color:#3AB15E;
+	font-family:arial;
+	font-size:12px;
+	border-radius:5px;
+	margin-top:10px;
+	margin-left:-8px;
+}
+.greenbar p{
+	text-align:center;
+	margin-top:5px;
+}
+.sideword{
+	color:#9BA7B5;
+	font-family:arial;
+	font-size:11px;
+	margin-top:-25px;
+	margin-left:80px;
+}
+.listabigh{
+	margin-top:25px;
+	margin-bottom:10px:
+	list-style:none;
+}
+.li1{
+	color:#A9A9A9;
+	font-family:arial;
+	font-size:11px;
+	margin-left:-10px;
+	position:relative;
+}
+.li2{
+	color:#AEB0A1;
+	font-family:arial;
+	font-size:11px;
+	margin-left:120px;
+	margin-top:-10px;
+
+}
+.textbigh{
+	font-family:arial;
+	font-size:11px;
+	color:#B4B7AB;
+	margin-top:20px;
+	margin-left:-10px;
+}
+.yellowicon{
+	width:25px;
+	height:20px;
+    top:-15px;
+	margin-left:15px;
+	position:relative;
+}
+.orangeicon{
+	width:25px;
+	height:20px;
+	top:4px;
+	margin-left:20px;
+	position:relative;
+}
+.yellowbar{
+	border:2px solid #DFB636;
+	background-color:#DFB636;
+	border-radius:5px;
+	width:150px;
+	height:40px;
+	margin-top:20px;
+	margin-left:-10px;
+}
+.orangebar{
+	border:2px solid #BB7B29;
+	background-color:#BB7B29;
+	border-radius:5px;
+	width:150px;
+	height:40px;
+	margin-top:20px;
+	margin-left:-10px;
+}
+
+
+.yellowp{
+	font-size:10px;
+	font-family:arial;
+	color:white;
+	margin-right:25px;
+	margin-left:10px;
+	margin-top:10px;
+	float:right;
+}
+.orangep{
+	font-size:10px;
+	font-family:arial;
+	color:white;
+	margin-right:30px;
+	margin-top:10px;
+	float:right;
+}
+.col-12{
+	background-color:#DFB636;
+	width:1369px;
+	height:300px;
+
+}
+.img img{
+	width:200px;
+	height:180px;
+	margin-top:103px;
+	position:relative;
+	margin-right:14px;
+    left:40px;
+	float:left;
+
+}
+.trailer embed{
+	margin-top:-700px;
+	top:-5px;
+	position:relative;
+	float:right;
+
+}
+.container4{
+	width:600px;
+	height:500px;
+	margin-left:80px;
+	margin-top:50px;
+}
+.dont{
+	color:#CFCFCF;
+	font-family:verdana;
+	font-size:16px;
+}
+.book{
+	color:black;
+	font-family:arial;
+	font-size:24px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.bookbarra ticketimg{
+	background-color:#BB7B29;
+	border:1px solid #BB7B29
+	border-radius:5px;
+	width:120px;
+	height:40px;
+}
+.editarbarra{
+    float:right;
+    margin-right:60px;
+	margin-left:-4px;
+	width:-20px;
+	position:absolute;
+	text-align:center;
+
+}
+.orangebar{
+	margin-left:-8px;
+}
+
+.descuento{
+	margin-top:10px;
+	color:#D8BDA8;
+	font-family:arial;
+	font-size:11px;
+}
+
+.lateral{
+	margin-left:500px;
+    margin-top:-160px;
+	width:700px;
+
+}
+.news{
+	font-size:30px;
+	font-family:arial;
+	color:#D0D0D0;
+
+}
+.loren{
+	font-size:14px;
+	font-family:arial;
+	color:black;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+
+.fecha{
+	color:#E6F2F7;
+	font-family:arial;
+	font-size:14px;
+}
+.contenido{
+	font-size:14px;
+	font-family:arial;
+	color:#DFDEDE;
+}
+.rayagrisdos{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.more{
+	color:#E3C15F;
+	font-family:tahoma,
+	font-size:12px;
+	margin-top:20px;
+}
+.colum-12{
+	margin-left:50px;
+	margin-top:-230px;
+}
+.container6{
+	background-color:#F3F3F3;
+	width:1350;
+	height:300px;
+	margin-top:40px;
+}
+.discl{
+	color:#C9C9C9;
+	font-family:arial;
+	font-size:24px;
+	margin-left:85px;
+	margin-top:30px;
+}
+.parrafodis{
+	color:#C9C9C9;
+	font-family:arial;
+	font-size:14px;
+	margin-left:85px;
+	margin-top:0px;
+}
+.created{
+	color:#C9C9C9;
+	font-family:arial;
+	font-size:16px;
+	margin-top:60px;
+	margin-left:70px;
+}
+.lastp{
+	list-style:none;
+	font-family:arial;
+	font-size:12px;
+	color:#C9C9C9;
+	margin-left:70px;
+	margin-top:60px;
+}
