@@ -79,7 +79,7 @@
 }
 .listabigh{
 	margin-top:25px;
-	margin-bottom:10px:
+	margin-bottom:10px;
 	list-style:none;
 }
 .li1{
@@ -127,16 +127,24 @@
 	margin-top:20px;
 	margin-left:-10px;
 }
-.orangebar{
+.orangeba{
 	border:2px solid #BB7B29;
 	background-color:#BB7B29;
 	border-radius:5px;
 	width:150px;
 	height:40px;
 	margin-top:20px;
-	margin-left:-10px;
+	margin-left:-2px;
 }
-
+.orangebar{
+    border:2px solid #BB7B29;
+	background-color:#BB7B29;
+	border-radius:5px;
+	width:150px;
+	height:40px;
+	margin-top:20px;
+	margin-left:-2px;
+}
 
 .yellowp{
 	font-size:10px;
@@ -198,7 +206,7 @@
 }
 .bookbarra ticketimg{
 	background-color:#BB7B29;
-	border:1px solid #BB7B29
+	border:1px solid #BB7B29;
 	border-radius:5px;
 	width:120px;
 	height:40px;
@@ -255,12 +263,12 @@
 	color:#DFDEDE;
 }
 .rayagrisdos{
-	margin-top:10px;
-	margin-bottom:10px;
+    top:10px;
+	bottom:10px;
 }
 .more{
 	color:#E3C15F;
-	font-family:tahoma,
+	font-family:tahoma;
 	font-size:12px;
 	margin-top:20px;
 }
@@ -292,7 +300,7 @@
 	color:#C9C9C9;
 	font-family:arial;
 	font-size:16px;
-	margin-top:60px;
+	margin-top:-160px;
 	margin-left:70px;
 }
 .lastp{
