@@ -358,6 +358,9 @@ footer{
 	height:300px;
 	margin-top:900px;
 }
+span{
+	font-weight:bold;
+}
 .discl{
 	color:#C9C9C9;
 	font-family:arial;
